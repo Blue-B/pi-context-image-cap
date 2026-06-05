@@ -10,6 +10,10 @@
     "compaction",
     "screenshots"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Blue-B/pi-context-image-cap"
+  },
   "type": "module",
   "license": "MIT",
   "files": [
