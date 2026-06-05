@@ -1,0 +1,34 @@
+{
+  "name": "pi-context-image-cap",
+  "version": "0.1.0",
+  "description": "Pi package that caps old image blocks in provider context and ships an offline session image repair tool.",
+  "keywords": [
+    "pi-package",
+    "pi",
+    "context",
+    "images",
+    "compaction",
+    "screenshots"
+  ],
+  "type": "module",
+  "license": "MIT",
+  "files": [
+    "extensions",
+    "scripts",
+    "README.md"
+  ],
+  "pi": {
+    "extensions": [
+      "extensions/*.ts"
+    ]
+  },
+  "bin": {
+    "pi-cap-session-images": "./scripts/cap-session-images.mjs"
+  },
+  "peerDependencies": {
+    "@earendil-works/pi-coding-agent": "*"
+  },
+  "scripts": {
+    "check": "node --check scripts/cap-session-images.mjs"
+  }
+}
