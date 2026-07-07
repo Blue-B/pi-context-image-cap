@@ -63,7 +63,7 @@ MIT
 
 ## 후원
 
-이 패키지가 도움이 됐다면 아래 링크로 후원해 주세요:
+이 프로젝트가 도움이 됐다면 아래 링크로 후원해 주세요:
 
 - [GitHub Sponsors](https://github.com/sponsors/Blue-B)
 - [Buy Me a Coffee](https://www.buymeacoffee.com/blueb)

@@ -65,7 +65,7 @@ MIT
 
 ## Support
 
-If this package helps you, consider supporting the work:
+If this project helps you, consider supporting:
 
 - [GitHub Sponsors](https://github.com/sponsors/Blue-B)
 - [Buy Me a Coffee](https://www.buymeacoffee.com/blueb)
