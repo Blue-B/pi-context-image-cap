@@ -1,5 +1,15 @@
 # pi-context-image-cap
 
+> [!NOTE]
+> **This repository is archived.** Development continues as
+> **pi-cap-context-images** in the
+> [pi-custom-packages](https://github.com/Blue-B/pi-custom-packages) monorepo:
+> [packages/pi-cap-context-images](https://github.com/Blue-B/pi-custom-packages/tree/main/packages/pi-cap-context-images).
+>
+> The version here is older: it does not handle the OpenAI Responses API
+> `input_image`/`input_text` block pair, and it keeps 3 images instead of 1.
+> Please install from the monorepo instead.
+
 Prevent old screenshots and images from bloating your pi sessions.
 
 [한국어](./README.ko.md)

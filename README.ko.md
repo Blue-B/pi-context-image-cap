@@ -1,5 +1,15 @@
 # pi-context-image-cap
 
+> [!NOTE]
+> **이 저장소는 아카이브되었습니다.** **pi-cap-context-images** 라는 이름으로
+> [pi-custom-packages](https://github.com/Blue-B/pi-custom-packages) 모노레포에서
+> 계속 관리됩니다:
+> [packages/pi-cap-context-images](https://github.com/Blue-B/pi-custom-packages/tree/main/packages/pi-cap-context-images).
+>
+> 여기 있는 버전은 더 낡았습니다. OpenAI Responses API의
+> `input_image`/`input_text` 블록 쌍을 처리하지 못하고, 이미지를 1장이 아니라
+> 3장 남깁니다. 모노레포 쪽에서 설치해 주세요.
+
 pi 세션에 스크린샷과 이미지가 쌓이는 걸 막아주는 패키지입니다.
 
 자주 브라우저, winshot, 기타 도구에서 이미지를 붙여넣는 경우에 유용합니다.
